@@ -1,0 +1,55 @@
+[SITO] = SITO WEB DELL’INFORMATIVA; [TITOLARE] = NOME E COGNOME DEL TITOLARE DEL TRATTAMENTO; [EMAIL] = EMAIL CONTATTO TITOLARE; [SEDE] = INDIRIZZO LEGALE AZIENDA/PRIVATO; [PIVACF] = SCRIVERE “Partita IVA N. ….” OPPURE “Codice Fiscale ….”; [LINKCOOKIE] = LINK CHE RIMANDA ALLA COOKIE POLICY
+
+POLITICA DI PRIVACY
+L’obiettivo di questa informativa è quello di fornire le modalità di trattamento dei dati personali dell’utente che naviga sul sito [SITO] ai sensi del Decreto Legislativo n.196 del 2003 (“Codice in materia dei dati personali”). 
+Tale documento è valido per tutti gli utenti che interagiscono con [SITO] e con i servizi ad esso associati accessibili per via telematica, a partire dalla pagina iniziale del sito. L’informativa è soggetta a modifiche. Nel caso in cui dovessero essere applicate modifiche di rilievo a tale informativa verrà pubblicato un avviso o banner per l’utente. 
+Con la denominazione “UTENTE” si intende una qualsiasi persona che accede al sito attraverso qualsiasi mezzo tecnologico dotato di connessione internet. 
+Titolare del trattamento
+Titolare del trattamento dei dati personali è [TITOLARE] ([PIVACF]), contattabile via mail all’indirizzo [EMAIL], oppure alla nostra sede sita in [SEDE]. Saremmo a vostra disposizione per eventuali domande o dubbi relativi alla politica di privacy di tale sito web e sull’utilizzo dei dati personali raccolti o forniti dall’utente.
+Clausola di esclusione di responsabilità
+[SITO] cerca in tutti i modi di garantire la completezza e la correttezza dell'informazione; tuttavia, qualora dovessero essere segnalati degli errori, si provvederà a correggerli. I contenuti del sito:
+* possono non essere esaurienti, completi, precisi o aggiornati;
+* possono avere collegamenti con siti esterni sui quali [SITO] non può esercitare alcun controllo e per i quali non si assume alcuna responsabilità.
+[SITO] non si assume alcuna responsabilità in merito ad eventuali problemi che possono insorgere per effetto della visualizzazione di eventuali siti esterni ad esso collegati. Si sottolinea il fatto che nel sito potrebbero essere presenti link a siti di terze parti ai quali non è applicabile questa informativa; per gli utenti che dovessero abbandonare [SITO] l’invito è di prendere visione dell’informativa sulla privacy del sito esterno. E’ possibile, però, contattarci per riferire eventuali anomalie sui siti linkati dallo stesso attraverso un qualsiasi modulo di contatto presente sul nostro sito o direttamente all’indirizzo email: [EMAIL]. 
+
+La presente clausola di esclusione di responsabilità non ha lo scopo di eludere il rispetto dei requisiti prescritti dalla legislazione nazionale vigente, né di escludere la responsabilità nei casi per i quali essa sussiste ai sensi della stessa legislazione, ma solo di informare l’utente circa i limiti di questa normativa.
+Natura dei dati trattati - Raccolta dati personali
+[SITO] tratta i dati anagrafici degli utenti. Generalmente, non trattiamo alcun dato qualificabile come sensibile o di natura giudiziaria ai sensi dell’art. 4, comma 1, del D.Lgs. n. 196/2003; qualora si rendesse necessario trattare dati di questo tipo, richiederemo preventivamente il consenso dell’interessato.
+I dati personali raccolti dal nostro sito di dividono in:
+* Dati forniti volontariamente dall’utente per il ricontatto
+* Dati forniti dall’utente per accedere ai servizi del sito web
+* Dati relativi alla navigazione e all’usabilità del sito (compresi cookie)
+Dati volontari
+L’Utente ha la facoltà di utilizzare le pagine preposte con la Form di contatto per inviare un’e-mail a [SITO]. I dati forniti verranno trattati per la registrazione del suo contatto, al fine di ricontattarlo sia per l’erogazione dei servizi dallo stesso richiesti, oppure sia per fornire risposte ad eventuali domande poste. Il trattamento sarà effettuato in modalità informatizzata attraverso la conservazione del contatto nei server di posta o all’interno della rubrica personale della Società/Persona Fisica proprietaria di [SITO]. La comunicazione dei dati ha natura facoltativa, tuttavia il mancato inserimento dei dati posti come obbligatori (*) o l’invio di dati non corrispondenti al vero non permetterà l’erogazione dei servizi (ad esempio: in caso di mancato o errato inserimento dell’e-mail da parte dell’utente, questo non permetterà di ricontattare l’utente e di conseguenza di non fornire il servizio richiesto dallo stesso). I dati forniti dall’utente non saranno comunicati ad altri soggetti, né saranno oggetti di diffusione, ma potrebbero essere utilizzati da [SITO] per la comunicazione di nuovi articoli o novità riguardanti esclusivamente il sito in questione. Tale clausola fa riferimento alle norme sancite in materia del trattamento dei dati personali circa l’invio di newsletter da parte di [SITO]; si rammenta, però, che l’utente può decidere in qualsiasi momento la cancellazione dalla lista della newsletter semplicemente cliccando sul link in essa presente oppure richiedendone la cancellazione via mail: [EMAIL].
+L’interessato o l’utente può in qualsiasi momento richiedere quali dati sono stati salvati sui server del sito web in questione e richiederne la cancellazione. 
+Inviando il modulo di contatto presente in una qualsiasi pagina di [SITO] l’utente acconsente al trattamento dei dati personali comunicati e al trattamento degli stessi secondo la presente normativa, inoltre conferma di essere stato informato correttamente circa: 
+* L’oggetto dell’informativa
+* Le finalità del trattamento dei dati
+* Le modalità del trattamento dei dati
+* La natura del conferimento
+* L’eventuale uso dei dati da parte di [SITO]
+* Il proprio diritto di accesso ai dati personali come indicato all’articolo n.7 del Decreto Legislativo n.196/03 
+Dati per accedere ai servizi
+Il sito web a cui questa normativa fa riferimento può offrire all’utente diversi ed ulteriori servizi attraverso pop-up oppure moduli appositi. Per poter usufruire degli stessi, però, è richiesto l’inserimento di un nome e di un’e-mail valida. Fornendo tali dati per poter accedere ai servizi, l’Utente acconsente al trattamento dei dati personali come sopra indicato, ed inoltre autorizza l’amministratore del sito all’inserimento dell’indirizzo e-mail fornito all’interno di una lista di Newsletter per la comunicazione di novità riguardanti il sito in questione. Si precisa che i dati forniti saranno utilizzati solo per comunicazioni informative da parte dello stesso e non saranno divulgati a terze parti. Non ci saranno comunicazioni esclusivamente pubblicitarie o SPAM. La non fruizione dei dati richiesti all’utente non permetterà l’erogazione dei servizi. Per “servizi” s’intende ad esempio la possibilità di download di documenti o di accesso a determinate aree riservate del sito, oppure, in modo del tutto generale, qualsiasi prodotto realizzato da [SITO] ed offerto all’Utente per via telematica. 
+Dati di navigazione
+Si intende per dati di navigazione la raccolta di dati dell’utente per fini statistici o per migliorare l’usabilità del sito da parte dell’utilizzatore. I sistemi informatici e gli applicativi dedicati al funzionamento del sito web [SITO] rilevano, nel corso del loro normale funzionamento, alcuni dati sull’uso del sito da parte dell’utente, senza permetterne la diretta identificazione. Tra i dati raccolti sono compresi gli indirizzi IP (anonimizzati dal sistema) e i nomi di dominio dei computer utilizzati dagli Utenti che si connettono al sito, gli indirizzi in notazione URI (Uniform Resource Identifier) delle risorse richieste, l’orario della richiesta, il metodo utilizzato nel sottoporre la richiesta al server, la dimensione del file ottenuto in risposta, il codice numerico indicante lo stato della risposta data dal server (buon fine, errore, ecc.) ed altri parametri riguardanti il sistema operativo e l’ambiente informatico utilizzato dall’Utente. 
+[SITO] utilizza questi dati per analizzare le tendenze, identificare gli argomenti con maggiore audience all’interno del sito, capire le necessità dell’utente e ciò che potrebbe interessarlo maggiormente. [SITO], però, non crea CON I DATI STATISTICI profili identificativi dei singoli utenti, ma ne verifica solo le medie. 
+Cookies: Sul sito [SITO] sono utilizzati cookies di vario genere e tipologia, anche di terze parti. E’ possibile consultare la normativa sull’uso dei cookie alla link apposito ([LINKCOOKIE]).
+Modalità del trattamento
+Il trattamento dei dati avviene mediante l’utilizzo di strumenti e procedure idonei e atti a garantirne la sicurezza e la riservatezza e potrà essere effettuato sia mediante supporti cartacei, sia attraverso l’ausilio di strumenti elettronici o servizi di terze parti.
+Comunicazione e diffusione 
+I dati che [SITO] raccoglie dai propri utenti non vengono "diffusi"; con tale termine si intende il darne conoscenza a soggetti indeterminati in qualunque modo, anche mediante la loro messa a disposizione o consultazione o vendita. I dati personali dell’interessato potranno invece essere "comunicati", con tale termine intendendosi il darne conoscenza ad uno o più soggetti determinati, ai seguenti soggetti e nei seguenti termini:
+* a soggetti incaricati all’interno della struttura organizzativa e aziendale di trattare i dati;
+* a soggetti che possono accedere ai dati in forza di disposizione di legge, o di normativa comunitaria, nei limiti previsti dalla legge;
+* a soggetti che hanno necessità di accedere ai dati per finalità ausiliarie al rapporto intercorrente, nei limiti strettamente necessari per svolgere i compiti ausiliari loro affidati;
+* a soggetti nel ruolo di consulenti, nei limiti necessari per svolgere il loro incarico presso la Società, previa lettera di incarico che imponga il dovere di riservatezza e sicurezza nel trattamento dei dati;
+I diritti dell’interessato 
+Di seguito l’estratto dell’art. 7 del D. Lgs. n. 196/2003, per ricordare che l’interessato  può  esercitare nei nostri confronti i seguenti diritti: 
+* ottenere la conferma dell’esistenza di dati personali che lo riguardano, anche se non ancora registrati, e la comunicazione in forma intelligibile dei medesimi dati e della loro origine, nonché, delle finalità e delle modalità del trattamento e della logica applicata in caso di trattamento effettuato con strumenti elettronici; 
+* ottenere la cancellazione, la trasformazione in forma anonima o il blocco dei dati di cui non è necessaria la conservazione in relazione agli scopi per i quali i dati sono stati raccolti e trattati; 
+* ottenere l’aggiornamento, la rettificazione e l’integrazione dei propri dati; 
+* opporsi, in tutto o in parte, per motivi legittimi, al trattamento dei dati che lo riguardano, ancorché pertinenti allo scopo della raccolta.
+Dati riepilogativi in breve
+Informativa sul trattamento dei dati (privacy policy) per: [SITO]
+Titolare del trattamento dei dati: [TITOLARE] – [PIVACF]
+Email e sede amministrativa/legale: [EMAIL] – [SEDE]
